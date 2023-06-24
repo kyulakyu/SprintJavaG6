@@ -105,5 +105,12 @@ Finalmente, cree la clase Principal, la que tendrá como objetivo crear una inst
 Algunas consideraciones:
 - Como entregable, se pide subir a la plataforma respectiva en la sección creada para dicho efecto, un archivo comprimido en el que se disponga el proyecto creado de manera completa.
 - Además, se solicita subir el proyecto a un repositorio GitHub. Esto es parte del portafolio que se solicita a cada alumno.
-
+  
+## Cosas a tener en cuenta :mag:
 Dentro de la carpeta se encuentra el Diagrama y el JAVADOC.
+
+## Autores :briefcase:
+- Sabina Leal
+- Juan Barrientos
+- Manuel Chavez
+- Sebastian Fernandez
