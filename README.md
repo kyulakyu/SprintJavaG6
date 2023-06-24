@@ -1,5 +1,4 @@
-# SprintJavaG6
-Sprint Final M4 Java G6
+# Sprint Final M4 Java G6
 
 CONTEXTO
 
